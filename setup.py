@@ -9,7 +9,7 @@ setup(
     description="a dependency inversion python package for using bucket storage minio",
     author="mopoy",
     author_email="mopoy.code@gmail.com",
-    url="https://github.com/yourusername/my_package",  # Optional
+    url="https://github.com/sudomopoy/ducket-py",  # Optional
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
